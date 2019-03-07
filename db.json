@@ -1,0 +1,56 @@
+{
+    "_status": "Success",
+    "_errorMessage": "",
+    "_data": [
+        {
+            "id": 0,
+            "name": "Pavlo Khrebto",
+            "gender": "male",
+            "country": "Ukraine",
+            "city": "Dnipro"
+        },
+        { "id": 1, "name": "John Doe", "gender": "male", "country": "USA", "city": "New York" },
+        {
+            "id": 2,
+            "name": "Jenny Doe",
+            "gender": "female",
+            "country": "Portugal",
+            "city": "Porto"
+        },
+        {
+            "id": 3,
+            "name": "Pierre Vanden Eynde",
+            "gender": "male",
+            "country": "Belgium",
+            "city": "Brussels"
+        },
+        {
+            "id": 4,
+            "name": "Vincent Heggermont",
+            "gender": "male",
+            "country": "Belgium",
+            "city": "Brussels"
+        },
+        {
+            "id": 5,
+            "name": "Daniel Santos",
+            "gender": "male",
+            "country": "Portugal",
+            "city": "Porto"
+        },
+        {
+            "id": 6,
+            "name": "Pauline Cossic",
+            "gender": "female",
+            "country": "France",
+            "city": "Lion"
+        },
+        {
+            "id": 7,
+            "name": "Vladyslava Kovbasa",
+            "gender": "female",
+            "country": "Ukraine",
+            "city": "Dnipro"
+        }
+    ]
+}
